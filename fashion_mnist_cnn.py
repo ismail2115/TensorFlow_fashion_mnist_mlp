@@ -1,7 +1,5 @@
 # ================================================
-#  Fashion-MNIST Classification (Student Version)
-#  Author: [Your Name]
-#  Course: AI / Deep Learning Assignment
+#  Fashion-MNIST Classification
 # ================================================
 
 import os
